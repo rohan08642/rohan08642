@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
-# 🚀 About Me:
+## 🚀 About Me
+
 - 🔭 I’m currently working as an **Intern at Slog Solutions Pvt. Ltd.**
 - 🤖 I’m currently diving deep into **Artificial Intelligence & Machine Learning**
+
 
 
 ## 🌐 Socials:

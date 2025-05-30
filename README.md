@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 # 💫 About Me:
 I'm currently Working as an intern in Slog Solutions PVT LTD.
-
+I’m currently learning **AI & ML**
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohan@slogsolutions.com) 
@@ -28,7 +28,7 @@ I'm currently Working as an intern in Slog Solutions PVT LTD.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h3 align="center">A passionate AI/ML & Robotic Developer from India</h3>
 
-- 🌱 I’m currently learning **AI & ML**
+
 
 - 💬 Ask me about **AI that thinks, robots that move, and sensors that feel. Building smart stuff with Arduino & ESP8266. Coding full-stack magic with a touch of design. JLPT N3 日本語の旅 (yep, I’m learning Japanese too!) Research, innovation, and real-world chaos turned into clarity.**
 

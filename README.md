@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 # 💫 About Me:
 I'm currently Working as an intern in Slog Solutions PVT LTD.
 
@@ -25,7 +26,6 @@ I'm currently Working as an intern in Slog Solutions PVT LTD.
 [![](https://visitcount.itsvg.in/api?id=monty08642&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 <h3 align="center">A passionate AI/ML & Robotic Developer from India</h3>
 
 - 🌱 I’m currently learning **AI & ML**

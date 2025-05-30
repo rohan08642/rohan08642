@@ -4,7 +4,9 @@
 - 🔭 I’m currently working as an **Intern at Slog Solutions Pvt. Ltd.**
 - 🤖 I’m currently diving deep into **Artificial Intelligence & Machine Learning**
 
+---
 
+## 🌐 Socials:
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohan@slogsolutions.com) 
